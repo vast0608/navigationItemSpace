@@ -13,6 +13,7 @@
 		2CC7CDF11FBD6CFD00B8FA1C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2CC7CDF01FBD6CFD00B8FA1C /* Assets.xcassets */; };
 		2CC7CDF41FBD6CFD00B8FA1C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2CC7CDF21FBD6CFD00B8FA1C /* LaunchScreen.storyboard */; };
 		2CC7CDF71FBD6CFE00B8FA1C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2CC7CDF61FBD6CFE00B8FA1C /* main.m */; };
+		2CC7CDFE1FBD938900B8FA1C /* 1510820203164.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2CC7CDFD1FBD938900B8FA1C /* 1510820203164.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		2CC7CDF31FBD6CFD00B8FA1C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2CC7CDF51FBD6CFD00B8FA1C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2CC7CDF61FBD6CFE00B8FA1C /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		2CC7CDFD1FBD938900B8FA1C /* 1510820203164.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1510820203164.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,6 +46,7 @@
 			children = (
 				2CC7CDE61FBD6CFD00B8FA1C /* navigationItemSpace */,
 				2CC7CDE51FBD6CFD00B8FA1C /* Products */,
+				2CC7CDFD1FBD938900B8FA1C /* 1510820203164.jpg */,
 			);
 			sourceTree = "<group>";
 		};
@@ -130,6 +133,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2CC7CDF41FBD6CFD00B8FA1C /* LaunchScreen.storyboard in Resources */,
+				2CC7CDFE1FBD938900B8FA1C /* 1510820203164.jpg in Resources */,
 				2CC7CDF11FBD6CFD00B8FA1C /* Assets.xcassets in Resources */,
 				2CC7CDEF1FBD6CFD00B8FA1C /* Main.storyboard in Resources */,
 			);
